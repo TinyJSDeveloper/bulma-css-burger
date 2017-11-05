@@ -1,5 +1,5 @@
 # bulma-css-burger
-Toggleable hamburger menu for bulma (CSS only - no JavaScript required).
+Toggleable hamburger menu for [bulma](https://github.com/jgthms/bulma) (CSS only - no JavaScript required).
 
 # How to use
 Get the CSS file and link it:
