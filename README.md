@@ -15,9 +15,9 @@ Then, to make the navbar, you'll just need to create a checkbox input and a labe
     <div class="container">
       
       <!-- Brand. -->
-			<div class="navbar-brand">
-			  <a class="navbar-item" href="#">
-			    BRAND
+      <div class="navbar-brand">
+        <a class="navbar-item" href="#">
+          BRAND
 				</a>
 			</div>
       
